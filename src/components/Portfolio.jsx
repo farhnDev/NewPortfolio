@@ -21,7 +21,7 @@ export default function Portfolio() {
                          data-aos-easing='liniear'
                          data-aos-delay="0">
                         <h2 className="text-gradient font-primary max-w-[700px] mx-auto text-[50px]">
-                            03
+                            04
                         </h2>
                         <div>Best Projects</div>
                     </div>
