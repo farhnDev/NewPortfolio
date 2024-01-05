@@ -19,6 +19,12 @@ export default function PortfolioComponent() {
             description:'OlshopMe adalah sebuah website Laravel on Progress',
             link:'https://github.com/farhnDev/OlshopMe.git',
             image:'/images/OlshopMe.png'
+        },
+        {
+            name:'MovieCatalogue',
+            description:'MovieCatalogue adalah sebuah website Latihan Dicoding Indonesia',
+            link:'https://moviefreenich.netlify.app/',
+            image:'/images/movie.png'
         }
     ]
 
