@@ -1,5 +1,4 @@
 import * as React from 'react';
-import {TypeAnimation} from "react-type-animation";
 import PortfolioComponent from "./PortfolioComponent";
 
 export default function Portfolio() {
